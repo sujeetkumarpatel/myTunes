@@ -1,5 +1,5 @@
 # myTunes
-<h1> This myTunest created by using HTML, CSS & Javascript</h1>
+<h1> This myTunest created by using HTML & CSS </h1>
 <h2> This website is very responsive</h2>
 
 
